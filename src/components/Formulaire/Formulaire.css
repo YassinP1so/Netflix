@@ -1,0 +1,10 @@
+.Fourma{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 200px;
+    
+}
+.title{
+    margin-right: 500px;
+}
